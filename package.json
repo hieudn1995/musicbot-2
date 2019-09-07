@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/developerCodex/musicbot.git"
+    "url": "git+ssh://git@github.com/hieudn1995/musicbot-2.git"
   },
   "keywords": [
     "music",
@@ -20,9 +20,9 @@
   "author": "developerCodex, Joseph Banks, ZelAk312, Hackzilla, ASIANBOI",
   "license": "I put de license in de folder",
   "bugs": {
-    "url": "https://github.com/developerCodex/musicbot/issues"
+    "url": "https://github.com/hieudn1995/musicbot/issues"
   },
-  "homepage": "https://github.com/developerCodex/musicbot#readme",
+  "homepage": "https://github.com/hieudn1995/musicbot#readme",
   "dependencies": {
     "discord.js": "hydrabolt/discord.js#indev-old",
     "youtube-search": "^1.0.6",
